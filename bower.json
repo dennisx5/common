@@ -1,7 +1,7 @@
 {
   "name": "common",
   "version": "0.0.0",
-  "main": "common/**/*",
+  "main": ["common/test.js","common/common/test2js"],
   "description": "",
   "license": "MIT",
   "ignore": [
