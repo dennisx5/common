@@ -1,0 +1,24 @@
+{
+  "name": "Common",
+  "version": "0.0.0",
+  "main": "common",
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7 <2.0",
+    "underscore": "~1.8.3",
+    "backbone": "master",
+    "handlebars": "~1.3.0",
+    "dz": "https://cdns-files.deezer.com/js/min/dz.js",
+    "carouFredSel": "https://github.com/gilbitron/carouFredSel.git",
+    "inflection": "https://code.google.com/p/inflection-js/",
+    "require": "*",
+    "select2": "~3.5.2",
+    "swag": "~0.7.0",
+    "text": "https://github.com/requirejs/text"
+  }
+}
